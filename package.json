@@ -1,5 +1,5 @@
 {
-  "name": "royalbot",
+  "name": "szymon",
   "version": "0.0.0",
   "private": true,
   "author": "Rafal Rozanka <rafal.rozanka@gmail.com>",
@@ -7,11 +7,12 @@
   "dependencies": {
     "hubot": "^2.17.0",
     "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "https://github.com/m4r3x/hubot-google-images/tarball/bcceb34ee3da761f6d977a9db0ca03c5b7931835",
+    "hubot-google-images": "^0.2.5",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.2",
     "hubot-heroku-keepalive": "^1.0.0",
     "hubot-maps": "0.0.2",
+    "hubot-pugme": "^0.1.0",
     "hubot-redis-brain": "0.0.3",
     "hubot-rules": "^0.1.1",
     "hubot-scripts": "^2.16.2",
